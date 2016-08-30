@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472510844 source:d:\hayde\documents\c++\sudoku\main.cpp
+	<iostream>
+	"grid.h"
+
+1472508277 d:\hayde\documents\c++\sudoku\grid.h
+	<iostream>
+
+1472513280 source:d:\hayde\documents\c++\sudoku\grid.cpp
+	"grid.h"
+	<iostream>
+
